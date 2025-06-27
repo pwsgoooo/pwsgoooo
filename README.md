@@ -1,11 +1,11 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm woo-seon!
 
-🎯 Passionate about [Your Field: e.g., Web Development, Data Science, AI].  
-💼 Currently working at [Company or Personal Project].  
-🌱 Learning [What you're learning now].  
-💬 Ask me about [Your strong skills].  
-📫 Reach me at [Email or social media].  
-🚀 Portfolio: [Link to your personal website or blog].
+🎯 Passionate about Web Development, AI, Infra on Network, DB.  
+💼 Currently working at Seoul as a SE Junior.  
+🌱 Learning Network.  
+💬 Ask me about Python, JAVA.  
+📫 Reach me at pws_01@naver.com  
+🚀 Portfolio: https://system-craft-newbie.tistory.com.
 
 ---
 
