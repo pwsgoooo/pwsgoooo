@@ -21,18 +21,32 @@ Memory Architecture – Learning how memory works and how systems manage resourc
 Hardware & Software Engineering – Building a fundamental understanding of computer systems and software.<br/>
 📚 Continuously developing practical technical skills based on these core computer science concepts.<br/><br/>
 
-📜 Certifications<br/><br/>
-IT & Data Certifications	Acquired<br/>
-AI-900(Microsoft Azure AI Fundamentals)	2023.10<br/>
-빅데이터분석기사	2023.07<br/>
-SQLD	2022.12<br/>
-ADsP	2021.06<br/>
-사무자동화산업기사	2020.08<br/>
-정보처리기사	2019.11<br/><br/>
+📜 **Certifications**
 
-Other Certifications Acquired<br/>
-한국사능력검정 1급	2019.11<br/>
-국가공인 한국실용글쓰기 3급 2019.08<br/><br/>
+**IT & Data Certifications**
+
+| Certification | Acquired |
+|---|---|
+| AI-900 (Microsoft Azure AI Fundamentals) | 2023.10 |
+| 빅데이터분석기사 | 2023.07 |
+| SQLD | 2022.12 |
+| ADsP | 2021.06 |
+| 사무자동화산업기사 | 2020.08 |
+| 정보처리기사 | 2019.11 |
+| 컴퓨터활용능력 2급 | 2014.08 |
+
+**Healthcare Certification**
+
+| Certification | Acquired |
+|---|---|
+| 간호조무사 | 2026.09 |
+
+**Other Certifications**
+
+| Certification | Acquired |
+|---|---|
+| 한국사능력검정 1급 | 2019.11 |
+| 국가공인 한국실용글쓰기 3급 | 2019.08 |
 
 📂 Featured Projects<br/>
 Data Analysis – Currently exploring and analyzing data using Python.<br/><br/>
