@@ -39,7 +39,7 @@ Hardware & Software Engineering – Building a fundamental understanding of comp
 
 | Certification | Acquired |
 |---|---|
-| 간호조무사 | 2026.09 |
+| 간호조무사 | 2026.10 |
 
 **Other Certifications**
 
